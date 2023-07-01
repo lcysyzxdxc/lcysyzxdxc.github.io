@@ -19,7 +19,7 @@ redirect_from:
 
 I’m [Chunyi Li](https://github.com/lcysyzxdxc/lcysyzxdxc.github.io/blob/main/docs/CV-202306.pdf), an upcoming First Year Ph.D. Student in SJTU Multimedia Lab under the supervision of Prof. [Jun Lu](https://ysg.ckcest.cn/html/details/8044/index.html) (CAS Fellow, 中国工程院院士) and Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (NSF Distinguished Young Scholar, 国家杰青). I'm honored to work with Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
 
-I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Recently I'm working on AI-Generated Content (AIGC) and Quality-of-Experience (QoE) in Shanghai AI Lab.
+I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Now I'm working on AI-Generated Content (AIGC) and Quality-of-Experience (QoE) in Shanghai AI Lab under the supervision of Prof. [Lei Bai](http://leibai.site/).
 
 - See my top Repos:
 - - 🥇[AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database): the most comprehensive fine-grained AI-Generated Image (AGI) subjective quality assessment database.
