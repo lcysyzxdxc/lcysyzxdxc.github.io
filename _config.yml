@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunyi Li"
-description              : "Chunyi Li's Homepage"
+description              : "SEIEE 5-410, Shanghai Jiao Tong University, Minhang District, Shanghai, China, 200240"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Chunyi Li"
   avatar           : "images/me.jpg"
   bio              : "1st Year PhD, SJTU-MM lab, Shanghai Jiao Tong University"
-  location         : "SEIEE 5-410, Shanghai Jiao Tong University, \n\ Minhang District, Shanghai, China"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
