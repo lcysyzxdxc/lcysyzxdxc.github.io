@@ -74,20 +74,18 @@ XGC-VQA: A Unified VQA Model for User Professionally and Occupationally Generate
 - *2023.06* **Outstanding Bachelor Thesis** of SJTU (1/200+).
 - *2023.06* Outstanding Bachelor Graduate Student of SJTU.
 
-- *2022.08* National University Internet of Things (IoT) Designing Competition, **HarmonyOS Grand Prize & National First Prize**, 10/1400+.
-- *2021.02* The Mathematical Contest in Modeling, Meritorious.
+- *2022.08* National University Internet of Things (IoT) Designing Competition, **HarmonyOS Grand Prize & National First Prize** (10/1400+).
+- *2021.02* The Mathematical Contest in Modeling, Meritorious Winner.
 - *2020.12* National College Mathematical Competition in Shanghai, First Prize.
-- *2020.11-2023.04* ZhangXu Fellowship (10k CNY), ZhanJiaJun Scholarship (15k CNY), Panasonic Scholarship (5k), Huawei Scholarship (4k CNY), B-level Scholarship (1k CNY), Merit Student.
+- *2020.11 - 2023.04* ZhangXu Fellowship (10k CNY), ZhanJiaJun Scholarship (15k CNY), Panasonic Scholarship (5k CNY), Huawei Scholarship (4k CNY), B-level Scholarship (1k CNY), Merit Student.
 
 - *2018.09* National High School Mathematical League in Beijing, First Prize.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.09 - now*, Ph.D. Student, [Cooperative Media-net Innovation Center](https://cmic.sjtu.edu.cn/), Shanghai Jiao Tong University, supervised by Prof. Guangtao Zhai.
+- *2022.07 - 2022.12*, Research Intern, [Institute of Data Science](https://ids.nus.edu.sg/), National University of Singapore, supervised by Prof. Roger Zimmermann.
+- *2019.09 - 2023.06*, Undergraduate Student, Shanghai Jiao Tong University.
+- *2013.09 - 2019.06*, High School Student, The Experimental High School Attached to Beijing Normal University.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - now*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
