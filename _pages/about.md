@@ -62,11 +62,11 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Re
 </div>
 </div>
 
-A Full-Reference Quality Assessment Metric for Cartoon Images, **Chunyi Li**, Zicheng Zhang, Wei Sun, Xiongkuo Min, and Guangtao Zhai, IEEE MMSP 2022.
+[A Full-Reference Quality Assessment Metric for Cartoon Images](https://ieeexplore.ieee.org/document/9949270), **Chunyi Li**, Zicheng Zhang, Wei Sun, Xiongkuo Min, and Guangtao Zhai, IEEE MMSP 2022.
 
-A PBCH Reception Algorithm in 5G Broadcasting, **Chunyi Li**, Haoyang Li, Ning Yang, Dazhi He, IEEE BMSB 2022.
+[A PBCH Reception Algorithm in 5G Broadcasting](https://ieeexplore.ieee.org/document/9828771), **Chunyi Li**, Haoyang Li, Ning Yang, Dazhi He, IEEE BMSB 2022.
 
-XGC-VQA: A Unified VQA Model for User Professionally and Occupationally Generated Content, Xinhui Huang, **Chunyi Li**(equal contribution), Abdelhak Bentaleb, Roger Zimmermann, and Guangtao Zhai, IEEE ICME Workshop 2023.
+[XGC-VQA: A Unified VQA Model for User Professionally and Occupationally Generated Content](https://arxiv.org/pdf/2303.13859.pdf), Xinhui Huang, **Chunyi Li**(equal contribution), Abdelhak Bentaleb, Roger Zimmermann, and Guangtao Zhai, IEEE ICME Workshop 2023.
 
 
 
