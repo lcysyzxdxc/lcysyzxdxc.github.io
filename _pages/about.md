@@ -29,7 +29,7 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. No
 
 
 # 🔥 News
-- *2022.07*: &nbsp;🎉🎉 I'll attend **ICME 2023** (Brisbane, Australia) in person. Looking forward to meeting you!
+- *2023.07*: &nbsp;🎉🎉 I'll attend **ICME 2023** (Brisbane, Australia) in person. Looking forward to meeting you!
 - *2023.06*: &nbsp;🎉🎉 My work about video QoE wins the **Top Bachelor Thesis** in SJTU! (1/200+ in my department)
 
 
