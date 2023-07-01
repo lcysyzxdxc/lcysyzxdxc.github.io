@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m Chunyi Li, First Year Ph.D. Student in SJTU Multimedia Lab, [Resume](https://github.com/lcysyzxdxc/lcysyzxdxc.github.io/blob/main/docs/CV-202306.pdf), currently working on AI-Generated Content (AIGC) and Quality-of-Experience (QoE) under supervision of Prof. [Jun Lu](https://ysg.ckcest.cn/html/details/8044/index.html) (CAS Fellow, 中国工程院院士) and Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (NSF Distinguished Young Scholar, 国家杰青). I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- See my top Repos:
+- - 🥇[AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database): the most comprehensive fine-grained AI-Generated Image (AGI) subjective quality assessment database.
+- - 🧰[ASPECT-QoE](https://github.com/lcysyzxdxc/ASPECT): a real-time QoE model for HTTP Adaptive Streaming.
+- 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, WeChat: [WeChat](Lcysyzxdxc)
+- [Google Scholar](https://scholar.google.com/citations?user=WosRriMAAAAJ)
 
 
 # 🔥 News
