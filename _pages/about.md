@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m [Chunyi Li](https://github.com/lcysyzxdxc/lcysyzxdxc.github.io/blob/main/docs/CV-202306.pdf), an upcoming First Year Ph.D. Student in SJTU Multimedia Lab under the supervision of Prof. [Jun Lu](https://ysg.ckcest.cn/html/details/8044/index.html) (CAS Fellow, 中国工程院院士) and Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (NSF Distinguished Young Scholar, 国家杰青). I'm honored to work with Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
+I’m [Chunyi Li](https://github.com/lcysyzxdxc/lcysyzxdxc.github.io/blob/main/docs/CV-202306.pdf)(李春一), an upcoming First Year Ph.D. Student in SJTU Multimedia Lab under the supervision of Prof. [Jun Lu](https://ysg.ckcest.cn/html/details/8044/index.html) (CAS Fellow, 中国工程院院士) and Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (NSF Distinguished Young Scholar, 国家杰青). I'm honored to work with Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
 
 I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Now I'm working on AI-Generated Content (AIGC) and Quality-of-Experience (QoE) in Shanghai AI Lab under the supervision of Prof. [Lei Bai](http://leibai.site/).
 
@@ -25,7 +25,7 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. No
 - - 🥇[AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database): the most comprehensive fine-grained AI-Generated Image (AGI) subjective quality assessment database.
 - - 🧰[ASPECT-QoE](https://github.com/lcysyzxdxc/ASPECT): a real-time QoE model for HTTP Adaptive Streaming.
 - 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, WeChat: Lcysyzxdxc
-- [Google Scholar](https://scholar.google.com/citations?user=WosRriMAAAAJ)
+
 
 
 # 🔥 News
@@ -68,7 +68,7 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. No
 
 [XGC-VQA: A Unified VQA Model for User Professionally and Occupationally Generated Content](https://arxiv.org/pdf/2303.13859.pdf), Xinhui Huang, **Chunyi Li**(equal contribution), Abdelhak Bentaleb, Roger Zimmermann, and Guangtao Zhai, IEEE ICME Workshop 2023.
 
-
+The Full Publication list is on [Google Scholar](https://scholar.google.com/citations?user=WosRriMAAAAJ).
 
 # 🎖 Honors and Awards
 - *2023.06* **Outstanding Bachelor Thesis** of SJTU (1/200+).
