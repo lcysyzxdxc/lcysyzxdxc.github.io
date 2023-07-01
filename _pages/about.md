@@ -35,7 +35,7 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Re
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2023 (on review)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2023 (on review)</div><img src='images/TCSVT2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment](https://arxiv.org/pdf/2306.04717.pdf)
@@ -50,7 +50,7 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Re
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2023</div><img src='images/ICME2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [A Real-Time Blind Quality-of-Experience Assessment Metric for HTTP Adaptive Streaming](https://arxiv.org/pdf/2303.09818.pdf)
@@ -63,14 +63,23 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Re
 </div>
 
 A Full-Reference Quality Assessment Metric for Cartoon Images, **Chunyi Li**, Zicheng Zhang, Wei Sun, Xiongkuo Min, and Guangtao Zhai, IEEE MMSP 2022.
+
 A PBCH Reception Algorithm in 5G Broadcasting, **Chunyi Li**, Haoyang Li, Ning Yang, Dazhi He, IEEE BMSB 2022.
+
 XGC-VQA: A Unified VQA Model for User Professionally and Occupationally Generated Content, Xinhui Huang, **Chunyi Li**(equal contribution), Abdelhak Bentaleb, Roger Zimmermann, and Guangtao Zhai, IEEE ICME Workshop 2023.
 
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* **Outstanding Bachelor Thesis** of SJTU (1/200+).
+- *2023.06* Outstanding Bachelor Graduate Student of SJTU.
+
+- *2022.08* National University Internet of Things (IoT) Designing Competition, **HarmonyOS Grand Prize & National First Prize**, 10/1400+.
+- *2021.02* The Mathematical Contest in Modeling, Meritorious.
+- *2020.12* National College Mathematical Competition in Shanghai, First Prize.
+- *2020.11-2023.04* ZhangXu Fellowship (10k CNY), ZhanJiaJun Scholarship (15k CNY), Panasonic Scholarship (5k), Huawei Scholarship (4k CNY), B-level Scholarship (1k CNY), Merit Student.
+
+- *2018.09* National High School Mathematical League in Beijing, First Prize.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
