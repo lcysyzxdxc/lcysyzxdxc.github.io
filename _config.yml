@@ -24,7 +24,7 @@ author:
   name             : "Chunyi Li"
   avatar           : "images/me.jpg"
   bio              : "1st Year PhD, SJTU-MM lab, Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  location         : "SEIEE 5-410, Shanghai Jiao Tong University, Minhang District, Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "#lcysyzxdxc"
+  github           : # "#lcysyzxdxc"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : "https://dblp.uni-trier.de/pid/192/6758.html"
-  orcid            : "https://orcid.org/0009-0007-0634-1710"
+  orcid            : # "https://orcid.org/0009-0007-0634-1710"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
