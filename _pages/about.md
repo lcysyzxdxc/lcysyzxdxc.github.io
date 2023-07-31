@@ -66,8 +66,6 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. No
 
 [A PBCH Reception Algorithm in 5G Broadcasting](https://ieeexplore.ieee.org/document/9828771), **Chunyi Li**, Haoyang Li, Ning Yang, Dazhi He, IEEE BMSB 2022.
 
-[XGC-VQA: A Unified VQA Model for User Professionally and Occupationally Generated Content](https://arxiv.org/pdf/2303.13859.pdf), Xinhui Huang*, **Chunyi Li***, Abdelhak Bentaleb, Roger Zimmermann, and Guangtao Zhai, IEEE ICME Workshop 2023.
-
 The Full Publication list is on [Google Scholar](https://scholar.google.com/citations?user=WosRriMAAAAJ).
 
 # 🎖 Honors and Awards
