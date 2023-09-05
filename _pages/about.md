@@ -29,13 +29,14 @@ I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. No
 
 
 # 🔥 News
+- *2023.08*: &nbsp;🎉🎉 One article accepted by **TCSVT 2023** (IF=8.4)!
 - *2023.07*: &nbsp;🎉🎉 I'll attend **ICME 2023** (Brisbane, Australia) in person. Looking forward to meeting you!
 - *2023.06*: &nbsp;🎉🎉 My work about video QoE wins the **Top Bachelor Thesis** in SJTU! (1/200+ in my department)
 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2023 (on review)</div><img src='images/TCSVT2023.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCSVT 2023</div><img src='images/TCSVT2023.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AGIQA-3K: An Open Database for AI-Generated Image Quality Assessment](https://arxiv.org/pdf/2306.04717.pdf)
