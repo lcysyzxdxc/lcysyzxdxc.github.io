@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m [Chunyi Li](https://github.com/lcysyzxdxc/lcysyzxdxc.github.io/blob/main/docs/CV-202306.pdf)(李春一), an upcoming First Year Ph.D. Student in SJTU Multimedia Lab under the supervision of Prof. [Jun Lu](https://ysg.ckcest.cn/html/details/8044/index.html) (CAS Fellow, 中国工程院院士) and Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (NSF Distinguished Young Scholar, 国家杰青). I'm honored to work with Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
+I’m [Chunyi Li](https://github.com/lcysyzxdxc/lcysyzxdxc.github.io/blob/main/docs/李春一+023034910083+英文简历.pdf)(李春一), an upcoming First Year Ph.D. Student in SJTU Multimedia Lab under the supervision of Prof. [Jun Lu](https://ysg.ckcest.cn/html/details/8044/index.html) (CAS Fellow, 中国工程院院士) and Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (NSF Distinguished Young Scholar, 国家杰青). I'm honored to work with Prof. [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html).
 
 I got my bachelor's degree from Shanghai Jiao Tong University in Summer 2023. Now I'm working on AI-Generated Content (AIGC) and Quality-of-Experience (QoE) in Shanghai AI Lab under the supervision of Prof. [Lei Bai](http://leibai.site/).
 
