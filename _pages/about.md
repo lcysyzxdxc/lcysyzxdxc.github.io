@@ -17,19 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+(This page is under modification.)
+
 I’m Chunyi Li(李春一), a joint Ph.D. Student at Shanghai Jiao Tong University under the supervision of Prof. [Guangtao Zhai](https://ee.sjtu.edu.cn/en/FacultyDetail.aspx?id=24&infoid=153&flag=153) (IEEE Fellow), and Nanyang Technological University under the supervision of Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) (IEEE Fellow).
 
 - See my top Repos:
-- - 🥇[AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database): the most comprehensive fine-grained AI-Generated Image (AGI) subjective quality assessment database.
-- - 🧰[ASPECT-QoE](https://github.com/lcysyzxdxc/ASPECT): a real-time QoE model for HTTP Adaptive Streaming.
-- 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, WeChat: Lcysyzxdxc
-
+- - 🥇[AIGC Quality Evaluation](https://github.com/lcysyzxdxc/AGIQA-3k-Database): a comprehensive fine-grained AI-Generated Image (AIGC) subjective quality assessment database. (100+ citations)
+- - 🧰[Embodied AI Evaluation](https://github.com/lcysyzxdxc/MPD): the first subjective evaluation paradigm from human to machine.
+- 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, lich0076@ntu.edu.sg
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 One article accepted by **TCSVT 2023** (IF=8.4)!
-- *2023.07*: &nbsp;🎉🎉 I'll attend **ICME 2023** (Brisbane, Australia) in person. Looking forward to meeting you!
-- *2023.06*: &nbsp;🎉🎉 My work about video QoE wins the **Top Bachelor Thesis** in SJTU! (1/200+ in my department)
+- *2025.07*: &nbsp;🎉🎉 I'm honored to receive the Membership Funding Program by the Chinese Institute of Electronics!
 
 
 # 📝 Selected Publications 
@@ -61,9 +60,6 @@ I’m Chunyi Li(李春一), a joint Ph.D. Student at Shanghai Jiao Tong Universi
 </div>
 </div>
 
-[A Full-Reference Quality Assessment Metric for Cartoon Images](https://ieeexplore.ieee.org/document/9949270), **Chunyi Li**, Zicheng Zhang, Wei Sun, Xiongkuo Min, and Guangtao Zhai, IEEE MMSP 2022.
-
-[A PBCH Reception Algorithm in 5G Broadcasting](https://ieeexplore.ieee.org/document/9828771), **Chunyi Li**, Haoyang Li, Ning Yang, Dazhi He, IEEE BMSB 2022.
 
 The Full Publication list is on [Google Scholar](https://scholar.google.com/citations?user=WosRriMAAAAJ).
 
@@ -83,6 +79,12 @@ The Full Publication list is on [Google Scholar](https://scholar.google.com/cita
 - *2022.07 - 2022.12*, Research Intern, [Institute of Data Science](https://ids.nus.edu.sg/), National University of Singapore, supervised by Prof. Roger Zimmermann.
 - *2019.09 - 2023.06*, Undergraduate Student, Shanghai Jiao Tong University.
 - *2013.09 - 2019.06*, High School Student, The Experimental High School Attached to Beijing Normal University.
+
+# 💬 Invited Talks
+- *2025.06*, Invited Speaker, Advanced Signal Processing Theory and Methods. Outstanding Doctoral Student Forum, Chinese Institute of Electronics, Hangzhou.
+- *2025.06*, Panel Speaker, Reconstruction and Generation of Large Scenes. Vision and Learning Seminar(VALSE), Chinese Society of Image and Graphics, Zhuhai.
+- *2025.05*, Invited Speaker, Perceptual Quality Assessment for Embodied AI. Outstanding Doctoral Student Forum, Chinese Society of Image and Graphics, Online.
+- *2024.04*, Invited Speaker, Cooperative Evolution of Video Coding and Generative AI. College of Computing and Data Science Technical Seminar, Nanyang Technological University, Singapore.
 
 # 💻 Internships
 - *2023.07 - now*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
