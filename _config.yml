@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunyi Li"
-description              : "SEIEE 5-410, Shanghai Jiao Tong University, Minhang District, Shanghai, China, 200240"
+description              : "SJTU | NTU | Changhai AI Lab"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chunyi Li"
   avatar           : "images/me.jpg"
-  bio              : "1st Year PhD, SJTU-MM lab, Shanghai Jiao Tong University"
+  bio              : "PhD Candidate, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=WosRriMAAAAJ"
   email            : "lcysyzxdxc@sjtu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Chunyi_Li8/research"
   uri              :
   bitbucket        :
   codepen          :
