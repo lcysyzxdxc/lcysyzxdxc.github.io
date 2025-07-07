@@ -30,6 +30,7 @@ I’m Chunyi Li(李春一), a joint Ph.D. Student at Shanghai Jiao Tong Universi
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 I'm honored to receive the Membership Funding Program by the Chinese Institute of Electronics!
 
+<!--
 
 # 📝 Selected Publications 
 
@@ -80,11 +81,16 @@ The Full Publication list is on [Google Scholar](https://scholar.google.com/cita
 - *2019.09 - 2023.06*, Undergraduate Student, Shanghai Jiao Tong University.
 - *2013.09 - 2019.06*, High School Student, The Experimental High School Attached to Beijing Normal University.
 
+
+
 # 💬 Invited Talks
 - *2025.06*, Invited Speaker, Advanced Signal Processing Theory and Methods. Outstanding Doctoral Student Forum, Chinese Institute of Electronics, Hangzhou.
 - *2025.06*, Panel Speaker, Reconstruction and Generation of Large Scenes. Vision and Learning Seminar(VALSE), Chinese Society of Image and Graphics, Zhuhai.
 - *2025.05*, Invited Speaker, Perceptual Quality Assessment for Embodied AI. Outstanding Doctoral Student Forum, Chinese Society of Image and Graphics, Online.
+- *2025.05*, Invited Speaker, Image Quality Assessment for Machine Preference. Chinese Congress on Image and Graphics, Chinese Society of Image and Graphics, Changsha.
 - *2024.04*, Invited Speaker, Cooperative Evolution of Video Coding and Generative AI. College of Computing and Data Science Technical Seminar, Nanyang Technological University, Singapore.
 
 # 💻 Internships
 - *2023.07 - now*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
+
+-->
