@@ -24,6 +24,7 @@ I’m Chunyi Li(李春一), a joint Ph.D. Student at Shanghai Jiao Tong Universi
 See my top Repos:
 - 🥇[AIGC Quality Evaluation](https://github.com/lcysyzxdxc/AGIQA-3k-Database): a comprehensive fine-grained AI-Generated Image (AIGC) subjective quality assessment database. (100+ citations)
 - 🧰[Embodied AI Evaluation](https://github.com/lcysyzxdxc/MPD): the first subjective evaluation paradigm from human to machine. (CVPR Ratings: 555)
+
 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, lich0076@e.ntu.edu.sg
 
 My research interests cover the Generative AI/Embodied AI evaluation and their low-level downstream application. I'm a regular reviewer for journals: TPAMI/JSAC/TIP/TMM/TCSVT/TNNLS/TOMM, and conferences: CVPR/ICCV/NIPS/ICLR/ACMMM/ICME, etc.
