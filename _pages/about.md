@@ -21,7 +21,7 @@ redirect_from:
 
 I'm Chunyi Li(李春一), a joint Ph.D. candidate at the Shanghai Jiao Tong University and Nanyang Technological University, supervised by Prof. [Wenjun Zhang](https://icisee.sjtu.edu.cn/jiaoshiml/zhangwenjun.html) (中国工程院院士, IEEE Fellow), Prof. [Guangtao Zhai](https://icisee.sjtu.edu.cn/jiaoshiml/zhaiguangtao.html) (IEEE Fellow), and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) (IEEE Fellow). Prior to this, I was a research intern at the National University of Singapore supervised by Prof [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) (ACM Distinguished Scientist).
 
-Our research team at the AI ​​Evaluation Center, Shanghai Artificial Intelligence Laboratory, publishes benchmark lists related to Embodied AI and participates in the development of Chinese national standards. See our project homepage: [OpenCompass](https://opencompass.org.cn/embodied-intelligence) and [AIBench](https://aiben.ch/).
+Our research team at the Center of AI ​​Evaluation, Shanghai Artificial Intelligence Laboratory, publishes benchmark lists related to Embodied AI and participates in the development of Chinese national standards. See our project homepage: [OpenCompass](https://opencompass.org.cn/embodied-intelligence) and [AIBench](https://aiben.ch/).
 
 My research interests cover multimodal signal processing, including Generative AI and Embodied AI, and their low-level downstream application. I'm a regular reviewer for journals: TPAMI/JSAC/TIP/TMM/TCSVT/TNNLS/TOMM, and conferences: CVPR/ICCV/NIPS/ICLR/ACMMM/ICME, etc.
 
