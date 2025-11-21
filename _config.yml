@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunyi Li"
-description              : "Shanghai Jiao Tong University & Nanyang Technological University"
+description              : "SJTU | NTU | Shanghai AI Lab"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chunyi Li"
-  avatar           : "images/me.jpg"
+  avatar           : "images/bio.jpg"
   bio              : "Ph.D. Candidate"
   location         : "Shanghai, China"
   employer         :
