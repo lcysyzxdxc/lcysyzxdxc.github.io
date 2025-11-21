@@ -23,11 +23,11 @@ I'm Chunyi Li(李春一), a joint Ph.D. candidate at the Shanghai Jiao Tong Univ
 
 Our research team at the Center of AI ​​Evaluation, Shanghai Artificial Intelligence Laboratory, publishes benchmark lists related to Embodied AI and participates in the development of Chinese national standards. See our project homepage: [OpenCompass](https://opencompass.org.cn/embodied-intelligence) and [AIBench](https://aiben.ch/).
 
-My research interests cover multimodal signal processing, including Generative AI and Embodied AI, and their low-level downstream application. I'm a regular reviewer for journals: TPAMI/JSAC/TIP/TMM/TCSVT/TNNLS/TOMM, and conferences: CVPR/ICCV/NIPS/ICLR/ACMMM/ICME, etc.
+My research interests cover multimodal signal processing, including Generative AI and Embodied AI, and their low-level downstream application. I'm a regular reviewer for journals: TPAMI/JSAC/TIP/TMM/TCSVT/TNNLS/TOMM, and conferences: CVPR/ICCV/NIPS/ICLR/AAAI/ACMMM, etc.
 
 See my top Repos:
-- 🥇[AIGC Quality Evaluation](https://github.com/lcysyzxdxc/AGIQA-3k-Database): a comprehensive fine-grained AI-Generated Content (AIGC) subjective quality assessment database. (200+ citations)
-- 🧰[Embodied AI Evaluation](https://github.com/lcysyzxdxc/MPD): the first subjective evaluation paradigm from human to machine. (CVPR Ratings: 555)
+- 🥇[AIGC Quality Evaluation](https://github.com/lcysyzxdxc/AGIQA-3k-Database): a comprehensive fine-grained AI-Generated Content (AIGC) subjective quality assessment database. (200+ Highly Cited)
+- 🧰[Embodied AI Evaluation](https://github.com/lcysyzxdxc/MPD): the first subjective evaluation paradigm from human to machine. (CVPR Full-Mark Ratings)
 
 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, lich0076@e.ntu.edu.sg
 
