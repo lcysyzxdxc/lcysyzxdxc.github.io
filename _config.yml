@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chunyi Li"
-description              : "SJTU | NTU | SH AILab"
+description              : "SJTU | NTU | SH AI Lab"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Chunyi Li"
   avatar           : "images/bio.jpg"
   bio              : "Ph.D. Candidate"
-  location         : "https://www.ntu.edu.sg/s-lab"
+  location         : "S-lab, Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WosRriMAAAAJ"
