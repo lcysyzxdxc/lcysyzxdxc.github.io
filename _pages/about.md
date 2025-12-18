@@ -23,7 +23,7 @@ I'm Chunyi Li(李春一), a joint Ph.D. candidate at the Shanghai Jiao Tong Univ
 
 Our research team at the Center of AI ​​Evaluation, Shanghai Artificial Intelligence Laboratory, publishes benchmark lists related to Embodied AI and participates in the development of Chinese national standards. See our project homepage: [OpenCompass](https://opencompass.org.cn/embodied-intelligence) and [AIBench](https://aiben.ch/).
 
-My research interests cover multimodal signal processing, including Generative AI and Embodied AI, and their low-level downstream application. I'm an Area Chair from ICME, a regular reviewer for journals: TPAMI/JSAC/TIP/TMM/TCSVT/TNNLS/TOMM, and conferences: CVPR/ICCV/NIPS/ICLR/AAAI/ACMMM, etc.
+My research interests cover multimodal signal processing, including Generative AI and Embodied AI, and their low-level downstream application. I'm an Area Chair of ICME, a regular reviewer for journals: TPAMI/JSAC/TIP/TMM/TCSVT/TNNLS/TOMM, and conferences: CVPR/ICCV/NIPS/ICLR/AAAI/ACMMM, etc.
 
 See my top Repos:
 - 🥇[AIGC Quality Evaluation](https://github.com/lcysyzxdxc/AGIQA-3k-Database): a comprehensive fine-grained AI-Generated Content (AIGC) subjective quality assessment database. (200+ Highly Cited)
