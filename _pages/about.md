@@ -32,7 +32,7 @@ See my top Repos:
 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, lich0076@e.ntu.edu.sg
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Leading the Tutorial [T11 - Visual Signal Processing from Human to Embodied Intelligence](https://2026.ieee-iscas.org/program/Tutorial.html) in ISCAS. Welcome to select *T11* for registration!
+- *2026.01*: &nbsp;🎉🎉 Leading the Tutorial [Visual Signal Processing from Human to Embodied Intelligence](https://2026.ieee-iscas.org/program/Tutorial.html) in ISCAS. Welcome to select **T11** for registration!
 - *2025.12*: &nbsp;🎉🎉 Leading the Special Session [Benchmark Evaluation and Quality Assessment in the Era of Generative AI](https://2026.ieeeicme.org/special-sessions/#1764943457090-50e38f09-a8e0) in ICME. Submissions are welcome!
 - *2025.12*: &nbsp;🎉🎉 Get the CAST fund for PhD students (中国科协博士生青培)!
 - *2025.11*: &nbsp;🎉🎉 Get the NSFC fund for PhD students (国自然博士生基金)!
