@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-(This page is under modification.)
-
 I'm Chunyi Li(李春一), a joint Ph.D. candidate at the Shanghai Jiao Tong University and Nanyang Technological University, supervised by Prof. [Wenjun Zhang](https://icisee.sjtu.edu.cn/jiaoshiml/zhangwenjun.html) (中国工程院院士, IEEE Fellow), Prof. [Guangtao Zhai](https://icisee.sjtu.edu.cn/jiaoshiml/zhaiguangtao.html) (IEEE Fellow), and Prof. [Weisi Lin](https://personal.ntu.edu.sg/wslin/Home.html) (IEEE Fellow). Prior to this, I was a research intern at the National University of Singapore supervised by Prof [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) (ACM Distinguished Scientist).
 
 Our research team at the Center of AI ​​Evaluation, Shanghai Artificial Intelligence Laboratory, publishes benchmark lists related to Embodied AI and participates in the development of Chinese national standards. See our project homepage: [OpenCompass](https://opencompass.org.cn/embodied-intelligence) and [AIBench](https://aiben.ch/).
@@ -29,11 +27,13 @@ See my top Repos:
 - 🥇[AIGC Quality Evaluation](https://github.com/lcysyzxdxc/AGIQA-3k-Database): a comprehensive fine-grained AI-Generated Content (AIGC) subjective quality assessment database. (200+ Highly Cited)
 - 🧰[Embodied AI Evaluation](https://github.com/lcysyzxdxc/MPD): the first subjective evaluation paradigm from human to machine. (CVPR Full-Mark Ratings)
 
+🤝 Motto: Connect Widely, Thrive Together. 广结善缘，互惠共进。
+
 📫 Reach me by e-mail: lcysyzxdxc@sjtu.edu.cn, lich0076@e.ntu.edu.sg
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 Leading the Tutorial [Visual Signal Processing from Human to Embodied Intelligence](https://2026.ieee-iscas.org/program/Tutorial.html) in ISCAS. Welcome to select **T11** for registration!
-- *2025.12*: &nbsp;🎉🎉 Leading the Special Session [Benchmark Evaluation and Quality Assessment in the Era of Generative AI](https://2026.ieeeicme.org/special-sessions/#1764943457090-50e38f09-a8e0) in ICME. Submissions are welcome!
+- *2026.01*: &nbsp;🗃️🗃️ Leading the Tutorial [Visual Signal Processing from Human to Embodied Intelligence](https://2026.ieee-iscas.org/program/Tutorial.html) in ISCAS. Welcome to select **T11** for registration!
+- *2025.12*: &nbsp;🗃️🗃️ Leading the Special Session [Benchmark Evaluation and Quality Assessment in the Era of Generative AI](https://2026.ieeeicme.org/special-sessions/#1764943457090-50e38f09-a8e0) in ICME. Submissions are welcome!
 - *2025.12*: &nbsp;🎉🎉 Get the CAST fund for PhD students (中国科协博士生青培)!
 - *2025.11*: &nbsp;🎉🎉 Get the NSFC fund for PhD students (国自然博士生基金)!
 - *2025.07*: &nbsp;🎉🎉 I'm honored to receive the Membership Funding Program by the Chinese Institute of Electronics!
